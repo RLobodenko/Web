@@ -1,0 +1,113 @@
+.one {
+    
+    background-image: url(leaf.jpg);
+    background-repeat:no-repeat;
+    background-position:right;
+    height: 190px;
+}
+
+.two {
+    white-space: pre;
+ color: rgb(141, 213, 81);
+ font-family: Times New Roman, sans-serif;
+ 
+}
+.deviz {
+    white-space: pre;
+    color: rgb(50, 59, 105) !important;
+    
+}
+
+
+
+
+.three {
+
+height: 70px;
+background-color: rgb(153, 153, 153);
+
+
+}
+
+a.white {
+    
+    color: white;
+}
+
+
+.white
+
+{
+    
+    color: white;
+}
+.four {
+
+ background-color: rgb(221, 221, 221);
+ white-space: pre;
+ color: rgb(50, 59, 105) !important;
+}
+
+.text
+{
+    padding-left:15px;
+
+    
+}
+.five {
+    
+    color: rgb(141, 213, 81);
+    text-decoration: underline;
+}
+
+
+a {
+    
+    text-decoration: none;
+}
+
+.links {
+    color: rgb(141, 213, 81);
+  text-decoration: underline;
+  text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(141, 213, 81);
+    
+}
+
+
+.footer {
+  
+    padding-left: 15px;
+    
+}
+
+
+.footer_1 {
+    
+    padding-right: 15px;
+    
+}
+
+.footer_2 {
+    padding-right: 15px;
+    text-align: right;
+    
+}
+
+
+body {
+    color: rgb(103, 103, 103);
+    
+}
+
+
+.three_1 {
+    
+    text-align: center;
+    display: block;
+}
